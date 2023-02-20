@@ -1,0 +1,10 @@
+8    .  .  .  r  b  .  .  .
+7    p  q  r  k  .  p  p  B
+6    .  p  p  .  .  .  .  .
+5    .  .  P  .  .  .  .  .
+4    .  P  .  P  .  .  .  N
+3    P  .  .  .  .  B  .  .
+2    .  .  .  .  .  .  P  P
+1    .  .  .  .  B  .  .  K
+0    a  b  c  d  e  f  g  h
+MOVE h7f5
